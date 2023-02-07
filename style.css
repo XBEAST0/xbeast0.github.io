@@ -26,3 +26,7 @@ body {
 .interactive {
     pointer-events: all;
 }
+
+.interactive img {
+  width: 51.2px;
+}
