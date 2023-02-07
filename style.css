@@ -30,3 +30,14 @@ body {
 .interactive img {
   width: 51.2px;
 }
+
+
+
+.interactive img {
+  color: black;
+  transition: filter .3s ease;
+}
+
+.interactive img:hover {
+  filter: invert(50%);
+}
